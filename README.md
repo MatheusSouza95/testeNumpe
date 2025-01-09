@@ -12,7 +12,7 @@ Após clonar o repo é necessário utilizar os seguintes comandos
 2 - mvn spring-boot:run
 
 
-O banco de dados utilizado foi o H2 com isso não é necessário fazer alguma configuração prévia ao startar o projeto o mesmo [e iniciado
+O banco de dados utilizado foi o H2 com isso não é necessário fazer alguma configuração prévia ao startar o projeto o mesmo é iniciado
 
 # EXEMPLOS DE CHAMADAS: 
 
